@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ramon Pessoa
 
 - 💻 Desenvolvedor web focado em Font-End
-- 📖 Estudando Arquitetura limpa e padrões de design
+- 📖 Estudando organização de projetos front-end
 
 <div align="center">
   <a href="https://github.com/RamonPessoa">
